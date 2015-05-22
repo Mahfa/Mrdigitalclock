@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">MR clock</string>
+
+    <color name="button_back">#ffffff</color>
+    <color name="button_back_pressed">#B0F6F6</color>
+    
+    <color name="save_button_back">#00B4F6</color>
+    <color name="save_button_back_pressed">#098ED0</color>
+    
+</resources>
